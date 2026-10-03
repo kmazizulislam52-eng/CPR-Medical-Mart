@@ -1632,7 +1632,7 @@ export default function App() {
                             <tr key={order.id} className="hover:bg-slate-50 transition-colors">
                               <td className="p-3 font-mono font-bold text-xs text-[#1e549f]">
                                 {order.id}
-                                <span className="block text-[10px] text-slate-400 font-sans mt-0.5">
+                                <span className="block text-[10px] text-slate-400 font-bangla mt-0.5">
                                   {order.createdAt}
                                 </span>
                               </td>
