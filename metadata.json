@@ -1,0 +1,6 @@
+{
+  "name": "CPR Medical Mart",
+  "description": "CPR Medical Mart - Supporting Every Step of Your Medical Journey. মেডিকেল বই, স্ট্যাথোস্কোপ ও আধুনিক মেডিকেল ইন্সট্রুমেন্টস শোরুম, চকবাজার, চট্টগ্রাম।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
